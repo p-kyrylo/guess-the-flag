@@ -55,6 +55,4 @@
   ```
 - **Country Flags**: Update the `countries` array with your own set of country names and corresponding flag images.
 
-## Screenshots
-
 
